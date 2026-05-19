@@ -1,6 +1,6 @@
 # LTX-2.3-Movie-Builder-v1-NOAPI
 ComfyUI workflow Dockerized via [comfyui-wizard](https://comfy.getrunpod.io).
-Submission: https://comfy.getrunpod.io/dashboard/submissions/kd73n3g35314vjahpbta2ssagh8708cv
+Submission: https://comfy.getrunpod.io/dashboard/submissions/kd7dqcxpkvxce0bw8wfzrg8m65871c8q
 ## Build it yourself
 ```bash
 docker build -t my-comfy-workflow .
